@@ -1,3 +1,7 @@
+//Tommy Wang
+//April,21
+//Squares
+
 void setup() {
   size(600, 600);
   rectMode(CENTER);
